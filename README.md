@@ -8,8 +8,9 @@
   * 시간/공간 복잡도 개념
     * 시간 복잡도
     * 공간 복잡도
-* 2주차 (2022/07/23)    
+* 2주차 (2022/07/23) [[Lecture]](./1%20-%20Lecture/220723%20-%20Data%20Structure%2C%20Week%202.pdf)
   * 배열
+    * 다항식 (Polynomial)
     * 희소 행렬 (Sparse Matrix)
     * KMP 알고리즘 (KMP Algorithm)
 * 3주차 (2022/07/30)
