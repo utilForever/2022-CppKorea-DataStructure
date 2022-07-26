@@ -4,7 +4,7 @@
 
 ## 진행 일정
 
-* 1주차 (2022/07/16) [[Lecture]](./1%20-%20Lecture/220716%20-%20Data%20Structure%2C%20Week%201.pdf) [[Assignment]](./3%20-%20Assignment/220716%20-%20Data%20Structure%2C%20Week%201%20-%20Assignment.pdf)
+* 1주차 (2022/07/16) [[Lecture]](./1%20-%20Lecture/220716%20-%20Data%20Structure%2C%20Week%201.pdf) [[Assignment]](./3%20-%20Assignment/220716%20-%20Data%20Structure%2C%20Week%201%20-%20Assignment.pdf) [[Solution]](./4%20-%20Solution/220716%20-%20Data%20Structure%2C%20Week%201%20-%20Solution.pdf)
   * 시간/공간 복잡도 개념
     * 시간 복잡도
     * 공간 복잡도
