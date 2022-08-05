@@ -13,7 +13,7 @@
     * 다항식 (Polynomial)
     * 희소 행렬 (Sparse Matrix)
     * KMP 알고리즘 (KMP Algorithm)
-* 3주차 (2022/07/30)
+* 3주차 (2022/08/06)
   * 스택 (Stack)
   * 큐 (Queue)
     * 덱 (Deque)
@@ -21,7 +21,7 @@
   * 연결 리스트 (Linked List)
     * 단일 연결 리스트 (Singly Linked List)
     * 이중 연결 리스트 (Doubly Linked List)
-* 4주차 (2022/08/06)
+* 4주차 (2022/08/07)
   * 그래프 (1)
     * 그래프의 기본 연산
       * 깊이-우선 탐색 (DFS)
