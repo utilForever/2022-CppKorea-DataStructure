@@ -13,7 +13,7 @@
     * 다항식 (Polynomial)
     * 희소 행렬 (Sparse Matrix)
     * KMP 알고리즘 (KMP Algorithm)
-* 3주차 (2022/08/06) [[Lecture]](./1%20-%20Lecture/220806%20-%20Data%20Structure%2C%20Week%203.pdf)
+* 3주차 (2022/08/06) [[Lecture]](./1%20-%20Lecture/220806%20-%20Data%20Structure%2C%20Week%203.pdf) [[Assignment]](./3%20-%20Assignment/220806%20-%20Data%20Structure%2C%20Week%203%20-%20Assignment.pdf)
   * 스택 (Stack)
   * 큐 (Queue)
   * 미로 문제 (Maze)
