@@ -8,7 +8,7 @@
   * 시간/공간 복잡도 개념
     * 시간 복잡도
     * 공간 복잡도
-* 2주차 (2022/07/23) [[Lecture]](./1%20-%20Lecture/220723%20-%20Data%20Structure%2C%20Week%202.pdf) [[Example]](./2%20-%20Example/220723%20-%20Data%20Structure%2C%20Week%202) [[Assignment]](./3%20-%20Assignment/220723%20-%20Data%20Structure%2C%20Week%202%20-%20Assignment.pdf)
+* 2주차 (2022/07/23) [[Lecture]](./1%20-%20Lecture/220723%20-%20Data%20Structure%2C%20Week%202.pdf) [[Example]](./2%20-%20Example/220723%20-%20Data%20Structure%2C%20Week%202) [[Assignment]](./3%20-%20Assignment/220723%20-%20Data%20Structure%2C%20Week%202%20-%20Assignment.pdf) [[Solution]](./4%20-%20Solution/220723%20-%20Data%20Structure%2C%20Week%202%20-%20Solution.pdf)
   * 배열
     * 다항식 (Polynomial)
     * 희소 행렬 (Sparse Matrix)
